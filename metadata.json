@@ -1,0 +1,5 @@
+{
+  "name": "SGA Pro - Sistema de Gestão de Atendimento",
+  "description": "A complete Queue Management System (SGA) featuring a Public Kiosk, TV Calling Panel, Attendant Console, and Admin Dashboard. Implements priority logic, real-time updates (simulated), and comprehensive reporting.",
+  "requestFramePermissions": []
+}
